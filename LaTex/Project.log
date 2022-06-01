@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.31)  1 JUN 2022 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.31)  1 JUN 2022 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -51,7 +51,19 @@ Package: babel 2022/05/22 3.75 The Babel package
 (c:/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
+Package babel Info: Main language set with 'main='. Except if you have
+(babel)             problems, prefer the default mechanism for setting
+(babel)             the main language. Reported on input line 4274.
 
+(c:/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+)
 (c:/texlive/2022/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2020/11/10 v1.10 Greek support for the babel system
 \bbl@monogreek=\count196
@@ -65,23 +77,14 @@ File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
 File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 ))
 LaTeX Info: Redefining \& on input line 125.
-)
-(c:/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 108.
 ))
-(c:/texlive/2022/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-)
 (c:/texlive/2022/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
 Package babel Info: Importing font and identification data for greek
 (babel)             from babel-el.ini. Reported on input line 11.
+)
+(c:/texlive/2022/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
 )
 (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
@@ -89,29 +92,29 @@ File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box50
 )
 (./Project.aux
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 5
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 4
 .
  (c:/texlive/2022/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 ))
 \openout1 = `Project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (c:/texlive/2022/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -195,19 +198,19 @@ fontencoding LGR patched
 )
 
 Package utf8x.def Warning: Character(s)159 etc.gotredefinedsomewhere.
-(utf8x.def)                Restoringtoitsutf8x-meaning on input line 17.
+(utf8x.def)                Restoringtoitsutf8x-meaning on input line 13.
 
 (c:/texlive/2022/texmf-dist/tex/latex/ucs/data/uni-3.def
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
+(Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              <6> on input line 14.
 
-Overfull \hbox (43.11946pt too wide) in paragraph at lines 18--18
+Overfull \hbox (43.11946pt too wide) in paragraph at lines 14--14
  [][] 
  []
 
@@ -217,9 +220,9 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Project.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 74.
+(Font)              <7> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 74.
+(Font)              <5> on input line 49.
 )
 \tf@toc=\write3
 \openout3 = `Project.toc'.
@@ -232,28 +235,26 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ] [3] [4] [5]
 (./Project.aux) ) 
 Here is how much of TeX's memory you used:
- 4016 strings out of 478300
- 68405 string characters out of 5849123
- 365825 words of memory out of 5000000
- 22188 multiletter control sequences out of 15000+600000
- 479687 words of font info for 52 fonts, out of 8000000 for 9000
+ 4009 strings out of 478300
+ 68319 string characters out of 5849123
+ 367110 words of memory out of 5000000
+ 22184 multiletter control sequences out of 15000+600000
+ 478571 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,6n,54p,3336b,842s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 46i,6n,55p,3336b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
-x10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive
-/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/cbfonts/grmn0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pu
-blic/cbfonts/grmn1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cbfont
-s/grmn1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/grmn1728.
-pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/grxn1000.pfb><c:/tex
-live/2022/texmf-dist/fonts/type1/public/cbfonts/grxn1200.pfb><c:/texlive/2022/t
-exmf-dist/fonts/type1/public/cbfonts/grxn1440.pfb>
-Output written on Project.pdf (5 pages, 193960 bytes).
+x10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c
+:/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/grmn0900.pfb><c:/texlive/2
+022/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb><c:/texlive/2022/texmf-d
+ist/fonts/type1/public/cbfonts/grmn1200.pfb><c:/texlive/2022/texmf-dist/fonts/t
+ype1/public/cbfonts/grmn1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
+/cbfonts/grxn0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/gr
+xn1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/grxn1200.pfb>
+<c:/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/grxn1440.pfb>
+Output written on Project.pdf (5 pages, 177234 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
