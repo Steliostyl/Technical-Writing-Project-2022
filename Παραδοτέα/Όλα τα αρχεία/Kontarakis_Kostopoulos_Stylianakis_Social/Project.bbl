@@ -1,0 +1,521 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{article7}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=9e5b12cac08f0f8aee94d49530c52b5c}{%
+           family={Mundada},
+           familyi={M\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e5b12cac08f0f8aee94d49530c52b5c}
+      \strng{fullhash}{9e5b12cac08f0f8aee94d49530c52b5c}
+      \strng{bibnamehash}{9e5b12cac08f0f8aee94d49530c52b5c}
+      \strng{authorbibnamehash}{9e5b12cac08f0f8aee94d49530c52b5c}
+      \strng{authornamehash}{9e5b12cac08f0f8aee94d49530c52b5c}
+      \strng{authorfullhash}{9e5b12cac08f0f8aee94d49530c52b5c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Empirical Analysis of the Happiness Paradox-Your friends are happier than you are}
+      \field{year}{2014}
+    \endentry
+    \entry{article9}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ef304626d86788e9100db39fc1f490c6}{%
+           family={Bogert},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d5e056048924a2850224c9bc61526b58}{%
+           family={Schecter},
+           familyi={S\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8da518c264e426f51264b39faf1ba701}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e9c90885d73599e56ef1ab153778e28}
+      \strng{fullhash}{5e9c90885d73599e56ef1ab153778e28}
+      \strng{bibnamehash}{5e9c90885d73599e56ef1ab153778e28}
+      \strng{authorbibnamehash}{5e9c90885d73599e56ef1ab153778e28}
+      \strng{authornamehash}{5e9c90885d73599e56ef1ab153778e28}
+      \strng{authorfullhash}{5e9c90885d73599e56ef1ab153778e28}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{4}
+      \field{title}{Humans rely more on algorithms than social influence as a task becomes more difficult}
+      \field{volume}{11}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1038/s41598-021-87480-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41598-021-87480-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41598-021-87480-9
+      \endverb
+    \endentry
+    \entry{article4}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cc99b38ced482f8ce08a3d71368c14d4}{%
+           family={Allcott},
+           familyi={A\bibinitperiod},
+           given={Hunt},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7f632dc67b8bd2566eae625ec44fafd0}{%
+           family={Gentzkow},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f1fa09ad2ba62e63cdb95fc22b1a6cd7}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Chuan},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9103c9511b112c8cb8e8307ead8f582}
+      \strng{fullhash}{c9103c9511b112c8cb8e8307ead8f582}
+      \strng{bibnamehash}{c9103c9511b112c8cb8e8307ead8f582}
+      \strng{authorbibnamehash}{c9103c9511b112c8cb8e8307ead8f582}
+      \strng{authornamehash}{c9103c9511b112c8cb8e8307ead8f582}
+      \strng{authorfullhash}{c9103c9511b112c8cb8e8307ead8f582}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, there has been widespread concern that misinformation on social media is damaging societies and democratic institutions. In response, social media platforms have announced actions to limit the spread of false content. We measure trends in the diffusion of content from 569 fake news websites and 9540 fake news stories on Facebook and Twitter between January 2015 and July 2018. User interactions with false content rose steadily on both Facebook and Twitter through the end of 2016. Since then, however, interactions with false content have fallen sharply on Facebook while continuing to rise on Twitter, with the ratio of Facebook engagements to Twitter shares decreasing by 60\%. In comparison, interactions with other news, business, or culture sites have followed similar trends on both platforms. Our results suggest that the relative magnitude of the misinformation problem on Facebook has declined since its peak.}
+      \field{journaltitle}{Research \& Politics}
+      \field{number}{2}
+      \field{title}{Trends in the diffusion of misinformation on social media}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{2053168019848554}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/2053168019848554
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1177/2053168019848554
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/2053168019848554
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/2053168019848554
+      \endverb
+    \endentry
+    \entry{article1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0a4da858979600985e15a1565d440b2b}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{0a4da858979600985e15a1565d440b2b}
+      \strng{fullhash}{0a4da858979600985e15a1565d440b2b}
+      \strng{bibnamehash}{0a4da858979600985e15a1565d440b2b}
+      \strng{authorbibnamehash}{0a4da858979600985e15a1565d440b2b}
+      \strng{authornamehash}{0a4da858979600985e15a1565d440b2b}
+      \strng{authorfullhash}{0a4da858979600985e15a1565d440b2b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Communications website, http://cacm.acm.org, features more than a dozen bloggers in the BLOG@CACM community. In each issue of Communications, we'll publish selected posts or excerpts.twitterFollow us on Twitter at http://twitter.com/blogCACMhttp://cacm.acm.org/blogs/blog-cacmJason Hong considers how computer scientists, technologists could help guide regulation of the social media giant.}
+      \field{issn}{0001-0782}
+      \field{journaltitle}{Commun. ACM}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{The Trouble with Facebook}
+      \field{volume}{65}
+      \field{year}{2022}
+      \field{pages}{8\bibrangedash 9}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1145/3503775
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3503775
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3503775
+      \endverb
+    \endentry
+    \entry{article2}{article}{}
+      \name{author}{8}{}{%
+        {{hash=97827764abf70b2914f254a57ba68f5c}{%
+           family={Halevy},
+           familyi={H\bibinitperiod},
+           given={Alon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a34f5689cad1c408c313da70915c7631}{%
+           family={Canton-Ferrer},
+           familyi={C\bibinithyphendelim F\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=dad8cf0d5793bb3e0ae7f24739898972}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=80719726d7ff96382ab6c85feabee203}{%
+           family={Ozertem},
+           familyi={O\bibinitperiod},
+           given={Umut},
+           giveni={U\bibinitperiod}}}%
+        {{hash=5ed4cb049322fb15880fd44bac2b59a7}{%
+           family={Pantel},
+           familyi={P\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=008a6b9ba13f0548da02b642e88d7086}{%
+           family={Saeidi},
+           familyi={S\bibinitperiod},
+           given={Marzieh},
+           giveni={M\bibinitperiod}}}%
+        {{hash=37e5f5213268c0946bc6178f7d89bf4c}{%
+           family={Silvestri},
+           familyi={S\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=767ff4c62b49de430f8897658e318dce}{%
+           family={Stoyanov},
+           familyi={S\bibinitperiod},
+           given={Ves},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{e22e53065f18c0bd374917283072c9bf}
+      \strng{fullhash}{15eb191735a2ea52a8b0721400181e83}
+      \strng{bibnamehash}{e22e53065f18c0bd374917283072c9bf}
+      \strng{authorbibnamehash}{e22e53065f18c0bd374917283072c9bf}
+      \strng{authornamehash}{e22e53065f18c0bd374917283072c9bf}
+      \strng{authorfullhash}{15eb191735a2ea52a8b0721400181e83}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recent progress and ongoing problems of keeping online platforms and their users safe from malicious activities.}
+      \field{issn}{0001-0782}
+      \field{journaltitle}{Commun. ACM}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Preserving Integrity in Online Social Networks}
+      \field{volume}{65}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{92\bibrangedash 98}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/3462671
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3462671
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3462671
+      \endverb
+    \endentry
+    \entry{article3}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3113842fe5fff13a749c6a7cd553198f}{%
+           family={Acquisti},
+           familyi={A\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef8df9d186e9a976a91b06b730d412a9}{%
+           family={Brandimarte},
+           familyi={B\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=898ca02622955fd1ccdcf47220061ed2}{%
+           family={Loewenstein},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5b1e689256358cd1edca513a4dc8c50}
+      \strng{fullhash}{b5b1e689256358cd1edca513a4dc8c50}
+      \strng{bibnamehash}{b5b1e689256358cd1edca513a4dc8c50}
+      \strng{authorbibnamehash}{b5b1e689256358cd1edca513a4dc8c50}
+      \strng{authornamehash}{b5b1e689256358cd1edca513a4dc8c50}
+      \strng{authorfullhash}{b5b1e689256358cd1edca513a4dc8c50}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6221}
+      \field{title}{Privacy and human behavior in the age of information}
+      \field{volume}{347}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{509\bibrangedash 514}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1126/science.aaa1465
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.aaa1465
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaa1465
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaa1465
+      \endverb
+    \endentry
+    \entry{article5}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=0540963dff518007cfbe50ba82059f7b}{%
+           family={Medina\bibnamedelima Serrano},
+           familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Juan\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4d7e1cf4d3285db9efb8e9e6395674d6}{%
+           family={Papakyriakopoulos},
+           familyi={P\bibinitperiod},
+           given={Orestis},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a8d956880fbee2ea909fe23f0b667e2c}{%
+           family={Hegelich},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Southampton, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{7a93da99fc987c9864397d864abf5d13}
+      \strng{fullhash}{7a93da99fc987c9864397d864abf5d13}
+      \strng{bibnamehash}{7a93da99fc987c9864397d864abf5d13}
+      \strng{authorbibnamehash}{7a93da99fc987c9864397d864abf5d13}
+      \strng{authornamehash}{7a93da99fc987c9864397d864abf5d13}
+      \strng{authorfullhash}{7a93da99fc987c9864397d864abf5d13}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{TikTok is a video-sharing social networking service, whose popularity is increasing rapidly. It was the world’s second-most downloaded app in 2019. Although the platform is known for having users posting videos of themselves dancing, lip-syncing, or showcasing other talents, user-videos expressing political views have seen a recent spurt. This study aims to perform a primary evaluation of political communication on TikTok. We collect a set of US partisan Republican and Democratic videos to investigate how users communicated with each other about political issues. With the help of computer vision, natural language processing, and statistical tools, we illustrate that political communication on TikTok is much more interactive in comparison to other social media platforms, with users combining multiple information channels to spread their messages. We show that political communication takes place in the form of communication trees since users generate branches of responses to existing content. In terms of user demographics, we find that users belonging to both the US parties are young and behave similarly on the platform. However, Republican users generated more political content and their videos received more responses; on the other hand, Democratic users engaged significantly more in cross-partisan discussions.}
+      \field{booktitle}{12th ACM Conference on Web Science}
+      \field{isbn}{9781450379892}
+      \field{series}{WebSci '20}
+      \field{title}{Dancing to the Partisan Beat: A First Analysis of Political Communication on TikTok}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{257\bibrangedash 266}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3394231.3397916
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3394231.3397916
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3394231.3397916
+      \endverb
+      \keyw{TikTok,social media,political communication,US politics}
+    \endentry
+    \entry{article6}{article}{}
+      \name{author}{4}{}{%
+        {{hash=301c2e1a2b7a3366ee807ee83b6bed6d}{%
+           family={Apicella},
+           familyi={A\bibinitperiod},
+           given={Coren\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=69c247d1ecf9e851da81ee3a63df6c00}{%
+           family={Marlowe},
+           familyi={M\bibinitperiod},
+           given={Frank\bibnamedelima W.},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3997b2ee637a4f0e9edc27c381960732}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=014bb3937491dfed9938c208451cba72}{%
+           family={Christakis},
+           familyi={C\bibinitperiod},
+           given={Nicholas\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4917bdec99240951dd120d309598cf35}
+      \strng{fullhash}{dde43fb7fbfd3154425cc9e642a1633c}
+      \strng{bibnamehash}{dde43fb7fbfd3154425cc9e642a1633c}
+      \strng{authorbibnamehash}{dde43fb7fbfd3154425cc9e642a1633c}
+      \strng{authornamehash}{4917bdec99240951dd120d309598cf35}
+      \strng{authorfullhash}{dde43fb7fbfd3154425cc9e642a1633c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Social networks and cooperation in hunter-gatherers}
+      \field{volume}{481}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{497\bibrangedash 501}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nature10736
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/nature10736
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/nature10736
+      \endverb
+    \endentry
+    \entry{article8}{article}{}
+      \name{author}{6}{}{%
+        {{hash=06edff712db50810cceb7f6ad2d53ecf}{%
+           family={Huszár},
+           familyi={H\bibinitperiod},
+           given={Ferenc},
+           giveni={F\bibinitperiod}}}%
+        {{hash=92494c940bac5da1baad9aec805516a3}{%
+           family={Ktena},
+           familyi={K\bibinitperiod},
+           given={Sofia\bibnamedelima Ira},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=15492e187773e95b2d8cc402caf6086d}{%
+           family={O’Brien},
+           familyi={O\bibinitperiod},
+           given={Conor},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8d572235782ea25ea4ddf7eec0b699a2}{%
+           family={Belli},
+           familyi={B\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8fa358252bcb2428c9a8c8a940e6ff5c}{%
+           family={Schlaikjer},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e771760b6d0d33f8b4dfd907d8d57ac2}{%
+           family={Hardt},
+           familyi={H\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e8ad5c7696b7dc9e71a58889a46d129}
+      \strng{fullhash}{4788fcb8def60dc6d4c9144a289bfda8}
+      \strng{bibnamehash}{4788fcb8def60dc6d4c9144a289bfda8}
+      \strng{authorbibnamehash}{4788fcb8def60dc6d4c9144a289bfda8}
+      \strng{authornamehash}{3e8ad5c7696b7dc9e71a58889a46d129}
+      \strng{authorfullhash}{4788fcb8def60dc6d4c9144a289bfda8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The role of social media in political discourse has been the topic of intense scholarly and public debate. Politicians and commentators from all sides allege that Twitter’s algorithms amplify their opponents’ voices, or silence theirs. Policy makers and researchers have thus called for increased transparency on how algorithms influence exposure to political content on the platform. Based on a massive-scale experiment involving millions of Twitter users, a fine-grained analysis of political parties in seven countries, and 6.2 million news articles shared in the United States, this study carries out the most comprehensive audit of an algorithmic recommender system and its effects on political content. Results unveil that the political right enjoys higher amplification compared to the political left. Content on Twitter’s home timeline is selected and ordered by personalization algorithms. By consistently ranking certain content higher, these algorithms may amplify some messages while reducing the visibility of others. There’s been intense public and scholarly debate about the possibility that some political groups benefit more from algorithmic amplification than others. We provide quantitative evidence from a long-running, massive-scale randomized experiment on the Twitter platform that committed a randomized control group including nearly 2 million daily active accounts to a reverse-chronological content feed free of algorithmic personalization. We present two sets of findings. First, we studied tweets by elected legislators from major political parties in seven countries. Our results reveal a remarkably consistent trend: In six out of seven countries studied, the mainstream political right enjoys higher algorithmic amplification than the mainstream political left. Consistent with this overall trend, our second set of findings studying the US media landscape revealed that algorithmic amplification favors right-leaning news sources. We further looked at whether algorithms amplify far-left and far-right political groups more than moderate ones; contrary to prevailing public belief, we did not find evidence to support this hypothesis. We hope our findings will contribute to an evidence-based debate on the role personalization algorithms play in shaping political content consumption.}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{1}
+      \field{title}{Algorithmic amplification of politics on Twitter}
+      \field{volume}{119}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{e2025334119}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.2025334119
+      \endverb
+      \verb{eprint}
+      \verb https://www.pnas.org/doi/pdf/10.1073/pnas.2025334119
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.2025334119
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.2025334119
+      \endverb
+    \endentry
+    \entry{articleA}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e47e013c393bb6853c118203c0e44b6b}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Y.\bibnamedelimi Zee},
+           giveni={Y\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=5ddec46e090404e1224890533cbaa882}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c87f86658c0ede32f773a01d36d9c641}
+      \strng{fullhash}{c87f86658c0ede32f773a01d36d9c641}
+      \strng{bibnamehash}{c87f86658c0ede32f773a01d36d9c641}
+      \strng{authorbibnamehash}{c87f86658c0ede32f773a01d36d9c641}
+      \strng{authornamehash}{c87f86658c0ede32f773a01d36d9c641}
+      \strng{authorfullhash}{c87f86658c0ede32f773a01d36d9c641}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Indicators Research}
+      \field{month}{11}
+      \field{title}{Resolution of the Happiness–Income Paradox}
+      \field{volume}{119}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{705\bibrangedash 721}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s11205-013-0502-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11205-013-0502-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11205-013-0502-9
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
