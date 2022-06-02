@@ -1,7 +1,5 @@
 \babel@toc {greek}{}\relax 
-\babel@toc {greek}{}\relax 
-\babel@toc {greek}{}\relax 
-\contentsline {section}{\numberline {1}\IeC {\textBeta }\IeC {\textiota }\IeC {\textbeta }\IeC {\textlambda }\IeC {\textiota }\IeC {\textomicron }\IeC {\textgamma }\IeC {\textrho }\IeC {\textalpha }\IeC {\textphi }\IeC {\textiota }\IeC {\textkappa }\IeC {\'\texteta } \IeC {\textPi }\IeC {\textalpha }\IeC {\textrho }\IeC {\textomicron }\IeC {\textupsilon }\IeC {\textsigma }\IeC {\'\textiota }\IeC {\textalpha }\IeC {\textsigma }\IeC {\texteta }}{2}{}%
+\contentsline {section}{\numberline {1}Βιβλιογραφική Παρουσίαση}{2}{}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
@@ -40,17 +38,23 @@
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {section}{\numberline {2}\IeC {\textBeta }\IeC {\textiota }\IeC {\textbeta }\IeC {\textlambda }\IeC {\textiota }\IeC {\textomicron }\IeC {\textgamma }\IeC {\textrho }\IeC {\textalpha }\IeC {\textphi }\IeC {\'\textiota }\IeC {\textalpha }}{4}{}%
-\contentsline {section}{\numberline {3}\IeC {\textUpsilon }\IeC {\textpi }\IeC {\'\textomicron }\IeC {\textmu }\IeC {\textnu }\IeC {\texteta }\IeC {\textmu }\IeC {\textalpha }}{4}{}%
-\contentsline {subsection}{\numberline {3.1}\IeC {\textOmicron }\IeC {\textmu }\IeC {\'\textalpha }\IeC {\textdelta }\IeC {\textalpha }}{4}{}%
-\contentsline {subsection}{\numberline {3.2}\IeC {\textEpsilon }\IeC {\textpi }\IeC {\textiota }\IeC {\textlambda }\IeC {\textomicron }\IeC {\textgamma }\IeC {\'\texteta } \IeC {\'\textAlpha }\IeC {\textrho }\IeC {\texttheta }\IeC {\textrho }\IeC {\textomega }\IeC {\textnu }}{4}{}%
+\contentsline {section}{\numberline {2}Βιβλιογραφία}{4}{}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\contentsline {section}{\numberline {3}Υπόμνημα}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Ομάδα}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Επιλογή Άρθρων}{5}{}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {subsection}{\numberline {3.3}\IeC {\textEpsilon }\IeC {\textxi }\IeC {\textalpha }\IeC {\'\textiota }\IeC {\textrho }\IeC {\textepsilon }\IeC {\textsigma }\IeC {\texteta } \IeC {\'\textAlpha }\IeC {\textrho }\IeC {\texttheta }\IeC {\textrho }\IeC {\textomega }\IeC {\textnu }}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Εξαίρεση Άρθρων}{5}{}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {section}{\numberline {4}\IeC {\textBeta }\IeC {\textiota }\IeC {\textomicron }\IeC {\textgamma }\IeC {\textrho }\IeC {\textalpha }\IeC {\textphi }\IeC {\textiota }\IeC {\textkappa }\IeC {\'\textalpha }}{5}{}%
+\contentsline {section}{\numberline {4}Βιογραφικά}{6}{}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
