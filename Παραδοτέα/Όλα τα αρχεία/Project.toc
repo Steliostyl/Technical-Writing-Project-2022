@@ -1,5 +1,5 @@
 \babel@toc {greek}{}\relax 
-\contentsline {section}{\numberline {1}Βιβλιογραφική Παρουσίαση}{2}{}%
+\contentsline {section}{\numberline {1}Βιβλιογραφική Παρουσίαση - 893 Λέξεις}{2}{}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
@@ -42,13 +42,13 @@
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \contentsline {section}{\numberline {3}Υπόμνημα}{5}{}%
-\contentsline {subsection}{\numberline {3.1}Ομάδα}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Ομάδα - 95 Λέξεις}{5}{}%
 \contentsline {subsection}{\numberline {3.2}Επιλογή Άρθρων}{5}{}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {subsection}{\numberline {3.3}Εξαίρεση Άρθρων}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Εξαίρεση Άρθρων - 150 Λέξεις}{5}{}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 

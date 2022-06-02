@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.31)  2 JUN 2022 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.31)  2 JUN 2022 23:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -782,30 +782,30 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count399
 \@quotereset=\count400
-(./Project.aux)
-\openout1 = `Project.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 32.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 3
-2.
+(./Project.aux
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 5
+.
  (c:/texlive/2022/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
-)
-LaTeX Font Info:    ... okay on input line 32.
+))
+\openout1 = `Project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 Package biblatex Info: Trying to load language 'greek'...
 Package biblatex Info: ... file 'greek.lbx' found.
 
@@ -826,8 +826,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Project.bbl' found.
  (./Project.bbl)
-Package biblatex Info: Reference section=0 on input line 32.
-Package biblatex Info: Reference segment=0 on input line 32.
+Package biblatex Info: Reference section=0 on input line 33.
+Package biblatex Info: Reference segment=0 on input line 33.
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count401
@@ -862,11 +862,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 34.
  [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Project.toc
@@ -882,7 +882,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [2
 
 ] [3]
-Overfull \hbox (32.14809pt too wide) in paragraph at lines 58--58
+Overfull \hbox (32.14809pt too wide) in paragraph at lines 59--59
 \OT1/cmr/m/n/10 ma-tion on so-cial me-dia'', \OT1/cmr/m/it/10 Re-search & Pol-i
 -tics\OT1/cmr/m/n/10 , vol. 6, no. 2, p. 2 053 168 019 848 554,
  []
@@ -891,28 +891,20 @@ Overfull \hbox (32.14809pt too wide) in paragraph at lines 58--58
 <Stylianakis.jpg, id=31, 249.18094pt x 288.3272pt>
 File: Stylianakis.jpg Graphic file (type jpg)
 <use Stylianakis.jpg>
-Package pdftex.def Info: Stylianakis.jpg  used on input line 78.
+Package pdftex.def Info: Stylianakis.jpg  used on input line 79.
 (pdftex.def)             Requested size: 56.9055pt x 65.84311pt.
 <Kostopoulos.jpg, id=32, 98.55pt x 99.864pt>
 File: Kostopoulos.jpg Graphic file (type jpg)
 <use Kostopoulos.jpg>
-Package pdftex.def Info: Kostopoulos.jpg  used on input line 84.
+Package pdftex.def Info: Kostopoulos.jpg  used on input line 85.
 (pdftex.def)             Requested size: 56.9055pt x 57.66515pt.
 <Kontarakis.jpg, id=33, 77.1975pt x 102.8205pt>
 File: Kontarakis.jpg Graphic file (type jpg)
 <use Kontarakis.jpg>
-Package pdftex.def Info: Kontarakis.jpg  used on input line 90.
+Package pdftex.def Info: Kontarakis.jpg  used on input line 91.
 (pdftex.def)             Requested size: 56.9055pt x 75.79413pt.
  [6 <./Stylianakis.jpg> <./Kostopoulos.jpg> <./Kontarakis.jpg>]
 (./Project.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Project
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'Project.run.xml'.
 \openout1 = `Project.run.xml'.
 
@@ -920,11 +912,11 @@ Package logreq Info: Writing requests to 'Project.run.xml'.
 Here is how much of TeX's memory you used:
  12510 strings out of 478300
  239446 string characters out of 5849123
- 1053939 words of memory out of 5000000
+ 1054326 words of memory out of 5000000
  30538 multiletter control sequences out of 15000+600000
  479386 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,68p,3256b,2150s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,68p,3256b,2149s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/202
 2/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-di
@@ -937,7 +929,7 @@ ive/2022/texmf-dist/fonts/type1/public/cbfonts/grxn0900.pfb><c:/texlive/2022/te
 xmf-dist/fonts/type1/public/cbfonts/grxn1000.pfb><c:/texlive/2022/texmf-dist/fo
 nts/type1/public/cbfonts/grxn1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/p
 ublic/cbfonts/grxn1440.pfb>
-Output written on Project.pdf (6 pages, 338950 bytes).
+Output written on Project.pdf (6 pages, 346375 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
